@@ -139,3 +139,13 @@
 0.0.0.0 https://www.google.com/pagead/lvz?evtid=ACd6KtxMKCXTjGHSaidEUb2kwOJYpLCnxRGIlaY8im2JSJIfqnBG4VkAYEUaEIQAOfVDVdiylsrxI3BIRI11wRtLe7oFXlwwhA&req_ts=1782842656&pg=MainAppBootstrap%3AWatch&az=1&sigh=AB9vU41w7TUOeFhh2G000UT0qESY1VLYmA
 0.0.0.0 https://static.doubleclick.net/instream/ad_status.js
 0.0.0.0 https://googleads.g.doubleclick.net/pagead/id
+||g.doubleclick.net^
+||youtube.com/pagead/
+||ad.doubleclick.net^
+||google.*/pagead/lvz?
+||google.*/pagead/lvz?
+/pagead/1p-user-list/*$image
+||youtube.com/pagead/
+||g.doubleclick.net^
+||g.doubleclick.net^
+||g.doubleclick.net^
