@@ -129,3 +129,8 @@
 0.0.0.0 https://i.ibb.co/7xTMTTn6/Chat-GPT-Image-15-jun-2026-16-59-15.png
 0.0.0.0 https://events.mercadolibre.com/v1/media-storage-service/session-replay-admin.session-replay-store-mlb/assets
 0.0.0.0 https://licensing.bitmovin.com/impression
+0.0.0.0 https://o11y-proxy-otel-frontend.meli.com/v1/metrics
+0.0.0.0 https://o11y-proxy-otel-frontend.meli.com/v1/traces
+0.0.0.0 https://events.mercadolibre.com/v1/media-storage-service/session-replay-admin.session-replay-store-mlb/assets
+0.0.0.0 https://licensing.bitmovin.com/impression
+0.0.0.0 https://placements.mercadolibre.com/metrics/start_session/increment?placement_id=web-desktop&site_id=mpe
