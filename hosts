@@ -116,3 +116,6 @@
 0.0.0.0 https://www.youtube.com/youtubei/v1/log_event?alt=json
 0.0.0.0 https://www.youtube.com/generate_204?u9O7IA
 0.0.0.0 https://www.google.com/js/th/RJDMyNOKpZYVuF64QqGB6wwZWw19DY1uxf2SSR_mXtA.js
+0.0.0.0 https://www.google.com/pagead/lvz?evtid=ACd6KtyamsWU2vIUs4CWslNtOJRZRXdndXvL5GgpI4wPwjgv4BjLJtqGOLXB9-SNWkz6ULHIW0kG_W8Lk-uB53mYPfXAstnTnQ&req_ts=1782830431&pg=MainAppBootstrap%3AWatch&az=1&sigh=AB9vU41DyV-sEDSxFDg2usiJkfvjAOVy5A
+0.0.0.0 https://static.doubleclick.net/instream/ad_status.js
+0.0.0.0 https://googleads.g.doubleclick.net/pagead/id
