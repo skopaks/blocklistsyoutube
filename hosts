@@ -134,3 +134,5 @@
 0.0.0.0 https://events.mercadolibre.com/v1/media-storage-service/session-replay-admin.session-replay-store-mlb/assets
 0.0.0.0 https://licensing.bitmovin.com/impression
 0.0.0.0 https://placements.mercadolibre.com/metrics/start_session/increment?placement_id=web-desktop&site_id=mpe
+0.0.0.0 https://www.google.com.br/pagead/lvz?evtid=ACd6Ktxk27AnUa6AuR1dOOkMzqKyhQHgbGvfv0rKkZR7GzpLdh8Ow4N65xYWEn9nfe7xENrbiUcb_CftiZ5T7bD9Id9EzF1c-g&req_ts=1782842487&pg=MainAppBootstrap%3AWatch&az=1&sigh=AB9vU40mCwTadWF3Hxc6ErC07aXRaVqk8A
+0.0.0.0 https://www.google.com/pagead/1p-user-list/962985656/?backend=innertube&cname=1&cver=2_20260626&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20260626%3Bm%3D1%3Bptype%3Df_view%3Btype%3Dview%3Butuid%3DQ6byO2M8FIqqg0d4YMpwGw%3Butvid%3Db5PpImQUTlE%3Bw%3D1&is_vtc=0&ptype=f_view&random=929294457&utuid=Q6byO2M8FIqqg0d4YMpwGw
